@@ -1,5 +1,5 @@
 # Top-level configuration
-name = "typix"
+name = "aihub"
 main = "src/server/worker.ts"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2025-05-25"
